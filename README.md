@@ -21,7 +21,8 @@ Aplikasi Android untuk menampilkan dan mengelola resep-resep masakan khas Indone
 ---
 
 ### 📸 Tampilan
-*(Tambahkan screenshot aplikasi di sini jika ada)*
+<img width="538" height="832" alt="Screenshot 2025-07-10 142941" src="https://github.com/user-attachments/assets/86d39ce6-f4f6-47a3-9a60-9cd0c26552a3" />
+
 
 ---
 
