@@ -1,0 +1,36 @@
+# Created by https://www.toptal.com/developers/gitignore/api/android,java
+# Edit at https://www.toptal.com/developers/gitignore?templates=android,java
+
+### Android ###
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+*.apk
+*.ap_
+*.db
+
+### Jetpack Compose Preview ###
+*.pb
+
+# Keystore files
+*.jks
+*.keystore
+
+# Android Studio
+.idea
+*.iws
+*.ipr
+*.bak
+*.tmp
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+gradle-app.setting
